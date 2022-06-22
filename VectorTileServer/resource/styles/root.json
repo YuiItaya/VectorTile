@@ -4,7 +4,7 @@
   "sources": {
     "s": {
       "type": "vector",
-      "url": "https://github.com/YuiItaya/VectorTile/",
+      "url": "https://YuiItaya.github.io/VectorTile/VectorTileServer/",
       "minZoom": 4,
       "maxZoom": 16
     }
