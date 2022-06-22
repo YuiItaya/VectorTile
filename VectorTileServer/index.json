@@ -1,6 +1,6 @@
 {
  "currentVersion": 10.9,
- "name": "GSI test",
+ "name": "vectortile",
  "capabilities": "TilesOnly",
  "copyrightText": "地理院地図Vector（仮称）",
  "type": "indexedFlat",
